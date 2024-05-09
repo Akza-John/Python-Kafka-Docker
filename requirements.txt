@@ -1,0 +1,4 @@
+asyncio
+websockets
+psycopg2-binary
+aiokafka
