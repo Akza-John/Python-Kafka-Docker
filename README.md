@@ -18,4 +18,4 @@ This YAML file defines a Docker Compose configuration for running the applicatio
 This Dockerfile sets up the environment for running the Python application, including installing dependencies, running tests, and setting the command to execute the application.
 
 
-**Point to be noted : While running the code kindly update bootstrap_Servers = <machine-ip-address> in kafka_manager.py line 13.**
+**Point to be noted : While running the code kindly update bootstrap_Servers = machine-ip-address in kafka_manager.py line 13.**
